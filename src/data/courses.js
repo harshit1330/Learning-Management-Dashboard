@@ -1,0 +1,42 @@
+export const courses = [
+  {
+    id: 1,
+    title: "Physics",
+    category: "Physical Sciene",
+    lessons: 24,
+    progress: 62,
+    level: "Beginner",
+  },
+  {
+    id: 2,
+    title: "Chemistry",
+    category: "Physical Science",
+    lessons: 16,
+    progress: 45,
+    level: "Intermediate",
+  },
+  {
+    id: 3,
+    title: "Maths",
+    category: "Mathematics",
+    lessons: 12,
+    progress: 76,
+    level: "Beginner",
+  },
+  {
+    id: 4,
+    title: "English",
+    category: "Language",
+    lessons: 14,
+    progress: 35,
+    level: "Beginner",
+  },
+  {
+    id: 5,
+    title: "Computer Sciende",
+    category: "Technology",
+    lessons: 10,
+    progress: 58,
+    level: "Beginner",
+  },
+];

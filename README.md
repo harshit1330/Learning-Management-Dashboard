@@ -1,58 +1,28 @@
 # Learning Management Dashboard
 
-A responsive front-end learning dashboard for course discovery, progress tracking, quizzes, and personal study tasks. The project is built with React and Vite, styled with Tailwind CSS, and deployed with GitHub Pages.
+A responsive learning dashboard where users can explore courses, track their progress, take quizzes, and manage study tasks in one place.
 
-## Live View
+## Live Demo
 
-- Live deployment: https://harshit1330.github.io/Learning-Management-Dashboard/
-- Repository: https://github.com/harshit1330/Learning-Management-Dashboard
+[View the Learning Management Dashboard](https://harshit1330.github.io/Learning-Management-Dashboard/)
 
-## Screenshot
+## Main Features
 
-![Learning Management Dashboard screenshot](https://image.thum.io/get/width/1200/crop/800/https://harshit1330.github.io/Learning-Management-Dashboard/)
+- Course discovery and search
+- Learning progress tracking
+- Interactive quizzes
+- Study task management
+- Light and dark themes
+- Responsive dashboard interface
 
-## Features
-
-- Course cards with search and category filters.
-- Dashboard statistics for a learning overview.
-- Progress tracking UI for active courses.
-- Interactive quiz with score calculation.
-- Task manager backed by `localStorage`.
-- Dark and light mode support.
-- Reusable React components.
-- Responsive layout for desktop and mobile screens.
-
-## Tech Stack
+## Built With
 
 - React
 - JavaScript
 - Vite
 - Tailwind CSS
-- lucide-react
-- localStorage
 - GitHub Pages
 
-## Install and Run Locally
+## Preview
 
-```bash
-npm install
-npm run dev
-```
-
-Open the local URL printed by Vite in your browser.
-
-## Build
-
-```bash
-npm run build
-npm run preview
-```
-
-## Project Structure
-
-```text
-src/
-  components/   Reusable dashboard UI components
-  data/         Course data used by the dashboard
-  App.jsx       Main dashboard layout and state
-```
+![Learning Management Dashboard preview](https://image.thum.io/get/width/1200/crop/800/https://harshit1330.github.io/Learning-Management-Dashboard/)
